@@ -1,0 +1,15 @@
+{
+  "name": "jeff/php-mvc-starter",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Geofrey Maina",
+      "email": "mainageofrey731@gmail.com"
+    }
+  ],
+  "require": {}
+}
